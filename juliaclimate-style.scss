@@ -8,8 +8,8 @@
 ////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////
 // Thse define the JuliaDynamics template:
-$maincolor: hsl(257,32%,45%);   // main color of the org theme
-$secondcolor: hsl(182,72%,32%); // secondary color that serves as accents
+$maincolor: hsl(209, 41%, 48%);   // main color of the org theme
+$secondcolor: hsl(39, 49%, 36%); // secondary color that serves as accents
                        // it is used as-is for links in light theme
 $mainwhite: #fff;      // color representing white
 $mainblack: #202020;   // color representing black
@@ -24,7 +24,7 @@ $darkbg: #1e1e20;      // dark theme main page background
 //         asset("https://fonts.googleapis.com/css?family=Montserrat|Source+Code+Pro&display=swap", class=:css),
 //         ],
 //     ),
-$family-sans-serif: 'Montserrat', sans-serif;
+$family-sans-serif: 'Lato', sans-serif;
 $family-monospace: 'Source Code Pro', monospace;
 ////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////
