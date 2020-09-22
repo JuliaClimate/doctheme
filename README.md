@@ -25,7 +25,7 @@ Lastly, because we are using Google fonts, use
 ```julia
 format = Documenter.HTML(
     assets = [
-        asset("https://fonts.googleapis.com/css?family=Montserrat|Source+Code+Pro&display=swap", class=:css),
+        asset("https://fonts.googleapis.com/css?family=Lato|Source+Code+Pro&display=swap", class=:css),
         ],
     ),
 ```
