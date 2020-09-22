@@ -1,4 +1,4 @@
-# Documentation theme for the packages of JuliaDynamics
+# Documentation theme for the packages of JuliaClimate
 
 *(requires at least documenter `v0.24.6`)*
 
